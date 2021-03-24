@@ -1,0 +1,5 @@
+["dkim"]
+enabled="sender"
+domain="domain"
+selector="selector"
+path="path-to/zone-mta-template/config/dkim/domain.priv.pem"
